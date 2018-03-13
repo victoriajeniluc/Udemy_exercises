@@ -1,5 +1,4 @@
-// Function Expression 
-
+// Lecture: Hoisting [Function Expression]
 // --- Take away --- 
 // Hoisting only works with function declaration. If we use it on a function expression, it will throw an error for us saying that it doesn't quite know what the function grown up is since it was declared later on.. also the scope of the function is not a global context anymore. 
 
